@@ -1,0 +1,45 @@
+{
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-02-17 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-02-17 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-17 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "jodek:utility": {
+    "criteria": {
+      "tick": "2025-02-17 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-02-17 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-02-17 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "jodek:sleep": {
+    "criteria": {
+      "tick": "2025-02-17 03:57:11 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
